@@ -1,1 +1,5 @@
-
+networkx
+requests
+matplotlib
+pandas
+biopython
